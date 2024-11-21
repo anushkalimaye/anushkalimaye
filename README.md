@@ -20,7 +20,14 @@ I am a 4th year biomedical engineering student at Arizona State University who f
 
 ## My Stack
 
-![image](https://github.com/user-attachments/assets/e0b1fe86-3b87-421f-9b4c-33f0cfa69fe4)     ![image](https://github.com/user-attachments/assets/7211b8a4-903c-4c8e-b99e-baf3e476d97b)
+
+
+## My Projects 
+
+
+## How To Reach Me
+
+## Other Facts 
 
 
 
