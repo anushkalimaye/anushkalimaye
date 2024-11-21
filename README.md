@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am a 4th year biomedical engineering student at Arizona State University who found a passion in the world of data science in healthcare. 
+
+## My Stack
+
+![image](https://github.com/user-attachments/assets/e0b1fe86-3b87-421f-9b4c-33f0cfa69fe4)
+
+
