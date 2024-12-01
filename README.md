@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 
 I am a 4th year biomedical engineering student at Arizona State University who found a passion in the world of data science in healthcare. 
+- I am pursuing a Data Science Minor ![image](https://github.com/user-attachments/assets/55f4b5fa-29da-4714-91de-a54b2751e552)
+- I am in an researcher for a Health Informatics Lab, conducting pre-processing and machine learning techniques on driving data ![image](https://github.com/user-attachments/assets/07f4f0cd-4263-4df7-9390-3b69bd9cebdb)
+- I am an AI/ML Fellow with BreakThrough Tech ![image](https://github.com/user-attachments/assets/0040c1ce-ad5c-4b16-b5b2-6f1a0fffbe61) ![image](https://github.com/user-attachments/assets/88a3a8bb-e29a-4ea9-8e37-f7060f131e4b)
+
 
 ## My Stack
 
@@ -32,15 +36,19 @@ I am a 4th year biomedical engineering student at Arizona State University who f
 
 ## My Projects 
 
-
-Knowledge Graph Creation with Brightside Health:   August-December 
-
+[Knowledge Graph Creation with Brightside Health](https://github.com/rishikasrinivas/KnowledgeGraphMentalHealth) from August-December 2024
+[Predicting the Presence of Kidney Stones](https://github.com/anushkalimaye/Honors-Contract-Data-Science-in-R-) from August-December 2023
 
 
 ## How To Reach Me
 
-## Other Facts 
+Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anushkaLimaye0/)
+Contact me at amlimay2@asu.edu
 
+
+
+## Other Facts 
+I love arts and crafts 🎨, going to the gym 💪, and traveling ✈️
 
 
 
