@@ -30,29 +30,11 @@ I am a 4th year biomedical engineering student at Arizona State University who f
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## My Projects 
+
+
+Knowledge Graph Creation with Brightside Health:   August-December 
+
 
 
 ## How To Reach Me
