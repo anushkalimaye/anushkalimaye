@@ -42,8 +42,8 @@ I am a 4th year biomedical engineering student at Arizona State University who f
 
 ## How To Reach Me
 
-Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anushkaLimaye0/)
-Contact me at amlimay2@asu.edu
+- Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anushkaLimaye0/)
+- Contact me at amlimay2@asu.edu
 
 
 
