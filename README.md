@@ -36,8 +36,8 @@ I am a 4th year biomedical engineering student at Arizona State University who f
 
 ## My Projects 
 
-[Knowledge Graph Creation with Brightside Health](https://github.com/rishikasrinivas/KnowledgeGraphMentalHealth) from August-December 2024
-[Predicting the Presence of Kidney Stones](https://github.com/anushkalimaye/Honors-Contract-Data-Science-in-R-) from August-December 2023
+* [Knowledge Graph Creation with Brightside Health](https://github.com/rishikasrinivas/KnowledgeGraphMentalHealth) from August-December 2024
+*  [Predicting the Presence of Kidney Stones](https://github.com/anushkalimaye/Honors-Contract-Data-Science-in-R-) from August-December 2023
 
 
 ## How To Reach Me
