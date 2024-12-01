@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 
 I am a 4th year biomedical engineering student at Arizona State University who found a passion in the world of data science in healthcare. 
-- I am pursuing a Data Science Minor ![image](https://github.com/user-attachments/assets/55f4b5fa-29da-4714-91de-a54b2751e552)
-- I am in an researcher for a Health Informatics Lab, conducting pre-processing and machine learning techniques on driving data ![image](https://github.com/user-attachments/assets/07f4f0cd-4263-4df7-9390-3b69bd9cebdb)
-- I am an AI/ML Fellow with BreakThrough Tech ![image](https://github.com/user-attachments/assets/0040c1ce-ad5c-4b16-b5b2-6f1a0fffbe61) ![image](https://github.com/user-attachments/assets/88a3a8bb-e29a-4ea9-8e37-f7060f131e4b)
+- [I am pursuing a Data Science Minor] (![image](https://github.com/user-attachments/assets/07fe0d4f-9037-4c90-bfd6-129c4cce2048))
+- [I am in an researcher for a Health Informatics Lab, conducting pre-processing and machine learning techniques on driving data] (![image](https://github.com/user-attachments/assets/4afc7213-aaab-41da-a39e-ae90d3532123)) 
+- [I am an AI/ML Fellow with BreakThrough Tech] (![image](https://github.com/user-attachments/assets/40692192-41bb-490a-92da-095938b20734) ![image](https://github.com/user-attachments/assets/de61a490-1394-4599-8c81-cbd89f46d0ca))
+
+
 
 
 ## My Stack
